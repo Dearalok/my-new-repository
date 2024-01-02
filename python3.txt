@@ -1,0 +1,12 @@
+x = 10
+
+print("x is of tuype",type(x))
+
+
+y = 10.6
+print("y is type",type(y))
+
+z = x + y
+
+print(z)
+print("z is of type:",type(z))
